@@ -1,1 +1,0 @@
-I want to conduct transcriptome analysis on maize, and I aim to examine gene expression profiles following salt treatment.
