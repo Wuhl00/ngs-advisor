@@ -1,0 +1,15 @@
+# local ignore for ngs-advisor outputs
+
+# example outputs
+example/*.pdf
+example/*.tmp
+example/*.tmp.pdf
+example/*.log
+
+# OS cache
+.DS_Store
+Thumbs.db
+
+# python cache (if any appears locally)
+__pycache__/
+*.py[cod]
